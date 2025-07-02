@@ -2,6 +2,21 @@
 
 This project demonstrates the integration of generative AI (IBM Watsonx / Granite) into a modern SDLC toolchain using FastAPI and Streamlit.
 
+# Modules Covered in the Code:
+The SmartSDLC will cover automation in these stages:
+
+Requirement Analysis – Convert user stories to structured requirements.
+
+Design Suggestion – Generate UML design ideas.
+
+Code Generation – Auto-generate code templates.
+
+Testing – Generate test cases based on code.
+
+Deployment – Optional integration with CI/CD tools (can be simulated).
+
+Documentation – Auto-generate developer/user documentation
+
 ## Project Structure
 
 - `backend/` – FastAPI backend to handle routing and AI integration.
